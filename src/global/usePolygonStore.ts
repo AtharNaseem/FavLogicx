@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-
+import { createJSONStorage } from "zustand/middleware";
 type WorkspaceStatus = "idle" | "loading" | "loaded";
 
 interface WorkspaceState {
@@ -30,6 +30,9 @@ export const useWorkspaceStore = create<WorkspaceState>()(
           workspaceStatus: "idle",
         }),
     }),
-    { name: "workspace-session" }
+     {
+    name: "workspace-session",
+    storage: createJSONStorage(() => sessionStorage),
+  }
   )
 );
