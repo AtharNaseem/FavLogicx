@@ -15,9 +15,9 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
-        source: '/dashboard',         // user ka requested path
-        destination: '/dashboard/inbox', // redirect target
-        permanent: false,             // false = temporary redirect (307)
+        source: '/dashboard', 
+        destination: '/dashboard/inbox', 
+        permanent: false,           
       },
     ];
   },

@@ -1,33 +1,37 @@
 import { create } from "zustand";
+import { persist } from "zustand/middleware";
 
-type PolygonStage = "idle" | "loading" | "loaded";
+type WorkspaceStatus = "idle" | "loading" | "loaded";
 
-interface PolygonStore {
-  activePolygon: string | null;
+interface WorkspaceState {
+  activeModuleKey: string | null;
+  workspaceStatus: WorkspaceStatus;
 
-  stage: PolygonStage;
-
-  setActivePolygon: (label: string) => void;
-  setStage: (stage: PolygonStage) => void;
-
-  resetPolygon: () => void;
+  setActiveModule: (moduleKey: string | null) => void;
+  setWorkspaceStatus: (status: WorkspaceStatus) => void;
+  resetWorkspace: () => void;
 }
 
-export const usePolygonStore = create<PolygonStore>((set) => ({
-  activePolygon: null,
-  stage: "idle",
+export const useWorkspaceStore = create<WorkspaceState>()(
+  persist(
+    (set) => ({
+      activeModuleKey: null,
+      workspaceStatus: "idle",
 
-  setActivePolygon: (label) =>
-    set({
-      activePolygon: label,
-      stage: "loading",
+      setActiveModule: (moduleKey) =>
+        set({ activeModuleKey: moduleKey }),
+
+      setWorkspaceStatus: (status) =>
+        set({ workspaceStatus: status }),
+
+      resetWorkspace: () =>
+        set({
+          activeModuleKey: null,
+          workspaceStatus: "idle",
+        }),
     }),
-
-  setStage: (stage) => set({ stage }),
-
-  resetPolygon: () =>
-    set({
-      activePolygon: null,
-      stage: "idle",
-    }),
-}));
+    {
+      name: "workspace-session",
+    }
+  )
+);

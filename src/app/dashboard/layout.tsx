@@ -1,5 +1,3 @@
-import Header from "@/components/common/header";
-import BottomNav from "@/components/common/MobileBottomBar";
 import React from "react";
 
 interface Props {
@@ -9,9 +7,9 @@ interface Props {
 export default function DashboardLayout({ children }: Props) {
   return (
     <>
-      <div className="lg:p-[1%]">
+      <div className="lg:px-[1%] lg:pt-[1%]">
         {children}
-      </div>{" "}
+      </div>
     </>
   );
 }

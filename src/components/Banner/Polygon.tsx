@@ -5,7 +5,7 @@ export function Polygon({
   active = false,
   className = "",
   ...props
-}: React.SVGProps<SVGSVGElement>) {
+}: React.SVGProps<SVGSVGElement> & { active?: boolean }) {
   return (
     <svg
       fill="none"
