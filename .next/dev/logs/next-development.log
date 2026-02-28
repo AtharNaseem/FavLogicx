@@ -1,0 +1,2592 @@
+[00:00:05.094] Server  LOG      ✓ Ready in 2.9s
+[00:00:34.142] Server  LOG      ○ Compiling /dashboard/inbox ...
+[00:00:40.929] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:40.932] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:00:41.310] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:03.087] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:01:03.089] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:01:03.314] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:04.736] Browser WARN    Image with src "/BOXpad.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:37.609] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:01:37.614] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:01:37.882] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:05.664] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:05.666] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:02:05.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:26.290] Server  LOG      ✓ Compiled in 635ms
+[00:02:30.391] Server  LOG      ✓ Compiled in 211ms
+[00:02:34.125] Server  LOG      ✓ Compiled in 301ms
+[00:02:37.669] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__02ea5120._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:37.672] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:02:37.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:38.357] Browser WARN    Image with src "/BOXpad.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:03:30.953] Server  LOG      ✓ Compiled in 105ms
+[00:03:59.592] Server  LOG      ✓ Compiled in 210ms
+[00:04:26.082] Server  LOG      ✓ Compiled in 101ms
+[00:05:27.367] Server  LOG      ✓ Compiled in 313ms
+[00:06:13.423] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__c3dd8b81._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:13.428] Server  ERROR    ⨯ ReferenceError: DashbaordSidebar is not defined
+[00:06:14.044] Browser ERROR   uncaughtError: ReferenceError: DashbaordSidebar is not defined
+[00:06:20.756] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:20.774] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:06:21.546] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:48.944] Server  LOG      ✓ Compiled in 382ms
+[00:06:52.401] Server  LOG      ✓ Compiled in 352ms
+[00:06:52.501] Browser ERROR   uncaughtError: ReferenceError: activeModuleKey is not defined
+[00:06:56.898] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:56.936] Server  LOG      ✓ Compiled in 369ms
+[00:06:57.322] Browser ERROR   uncaughtError: ReferenceError: activeModuleKey is not defined
+[00:06:57.775] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:57.778] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[00:06:58.029] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:58.250] Browser ERROR   uncaughtError: ReferenceError: activeModuleKey is not defined
+[00:06:58.756] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:58.759] Server  LOG      ✓ Compiled in 502ms
+[00:06:59.336] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:59.337] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:06:59.526] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:02.949] Server  LOG      ✓ Compiled in 503ms
+[00:07:03.050] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:07:09.673] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:09.773] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:09.780] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:07:09.803] Server  LOG      ✓ Compiled in 271ms
+[00:07:09.996] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:11.431] Browser WARN    Image with src "/BOXpad.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:08:28.963] Server  LOG      ✓ Compiled in 119ms
+[00:08:29.297] Browser ERROR   uncaughtError: ReferenceError: useWorkspaceStore is not defined
+[00:08:36.860] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:36.961] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:36.965] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:08:36.994] Server  LOG      ✓ Compiled in 114ms
+[00:08:37.329] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:46.522] Server  LOG      ✓ Compiled in 49ms
+[00:08:47.044] Browser ERROR   uncaughtError: ReferenceError: useWorkspaceStore is not defined
+[00:08:50.884] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:51.482] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:51.483] Server  ERROR    ⨯ ReferenceError: useRouter is not defined
+[00:08:51.515] Server  LOG      ✓ Compiled in 80ms
+[00:08:51.516] Browser ERROR   uncaughtError: ReferenceError: useRouter is not defined
+[00:08:51.803] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:53.063] Browser ERROR   uncaughtError: ReferenceError: useRouter is not defined
+[00:08:53.958] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\node_modules_next_dfe6b850._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:53.960] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:53.961] Server  ERROR    ⨯ Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
+[00:08:54.350] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:55.037] Browser ERROR   uncaughtError: Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
+[00:09:06.601] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:07.101] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:07.102] Server  ERROR    ⨯ ReferenceError: useRouter is not defined
+[00:09:07.167] Server  LOG      ✓ Compiled in 89ms
+[00:09:07.543] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:07.842] Browser ERROR   uncaughtError: ReferenceError: useRouter is not defined
+[00:09:09.260] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:09.910] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__86ff5581._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:09.911] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:09:10.049] Server  LOG      ✓ Compiled in 192ms
+[00:09:10.507] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:17.365] Server  LOG      ✓ Compiled in 440ms
+[00:11:23.573] Server  LOG      ✓ Compiled in 212ms
+[00:11:26.598] Server  LOG      ✓ Compiled in 252ms
+[00:11:41.693] Server  LOG      ✓ Compiled in 55ms
+[00:11:42.038] Browser ERROR   ./src/components/DashbaordSidebar/DashbaordSidebar.tsx:114:3
+Parsing ecmascript source code failed
+  112 |   }
+  113 |
+> 114 |   return (
+      |   ^^^^^^^^
+> 115 |     <aside
+      | ^^^^^^^^^^
+> 116 |       className={`shadow-sm lg:rounded-xl bg-[#FAFAF8]
+      | ^^^^^^^^^^
+> 117 |       ${openSidebar ? "block" : "hidden"}
+      | ^^^^^^^^^^
+> 118 |       md:block md:h-[calc(100vh-143.84px)]
+      | ^^^^^^^^^^
+> 119 |       lg:h-[calc(100vh-70px)]
+      | ^^^^^^^^^^
+> 120 |       xl:h-[calc(100vh-90px)]
+      | ^^^^^^^^^^
+> 121 |       2xl:h-[calc(100vh-110px)] h-[86vh]
+      | ^^^^^^^^^^
+> 122 |       overflow-y-auto scrollbar-hide
+      | ^^^^^^^^^^
+> 123 |       p-[1%] md:w-[60%] lg:w-[16%]`}
+      | ^^^^^^^^^^
+> 124 |     >
+      | ^^^^^^^^^^
+> 125 |       <SidebarSection title="Inbox" items={SIDEBAR_CONFIG.inbox} />
+      | ^^^^^^^^^^
+> 126 |
+      | ^^^^^^^^^^
+> 127 |       <Divider />
+      | ^^^^^^^^^^
+> 128 |
+      | ^^^^^^^^^^
+> 129 |       <SidebarGroup title="Teams">
+      | ^^^^^^^^^^
+> 130 |         {SIDEBAR_CONFIG.teams.map((item) => (
+      | ^^^^^^^^^^
+> 131 |           <SidebarDropdownItem key={item.label} {...item} />
+      | ^^^^^^^^^^
+> 132 |         ))}
+      | ^^^^^^^^^^
+> 133 |       </SidebarGroup>
+      | ^^^^^^^^^^
+> 134 |
+      | ^^^^^^^^^^
+> 135 |       <Divider />
+      | ^^^^^^^^^^
+> 136 |
+      | ^^^^^^^^^^
+> 137 |       <SidebarGroup title="Users">
+      | ^^^^^^^^^^
+> 138 |         {isLoading ? <SidebarUsersSkeleton /> : users}
+      | ^^^^^^^^^^
+> 139 |       </SidebarGroup>
+      | ^^^^^^^^^^
+> 140 |
+      | ^^^^^^^^^^
+> 141 |       <Divider />
+      | ^^^^^^^^^^
+> 142 |
+      | ^^^^^^^^^^
+> 143 |       <SidebarSection
+      | ^^^^^^^^^^
+> 144 |         title="Channels"
+      | ^^^^^^^^^^
+> 145 |         items={SIDEBAR_CONFIG.channels}
+      | ^^^^^^^^^^
+> 146 |         type="channel"
+      | ^^^^^^^^^^
+> 147 |       />
+      | ^^^^^^^^^^
+> 148 |     </aside>
+      | ^^^^^^^^^^
+> 149 |   );
+      | ^^^^^
+  150 | };
+  151 |
+  152 | export default Sidebar;
+
+Return statement is not allowed here
+
+Import trace:
+  Server Component:
+    ./src/components/DashbaordSidebar/DashbaordSidebar.tsx
+    ./src/app/dashboard/inbox/page.tsx
+[00:11:45.047] Browser ERROR   ./src/components/DashbaordSidebar/DashbaordSidebar.tsx:114:3
+Parsing ecmascript source code failed
+  112 |   }
+  113 |
+> 114 |   return (
+      |   ^^^^^^^^
+> 115 |     <aside
+      | ^^^^^^^^^^
+> 116 |       className={`shadow-sm lg:rounded-xl bg-[#FAFAF8]
+      | ^^^^^^^^^^
+> 117 |       ${openSidebar ? "block" : "hidden"}
+      | ^^^^^^^^^^
+> 118 |       md:block md:h-[calc(100vh-143.84px)]
+      | ^^^^^^^^^^
+> 119 |       lg:h-[calc(100vh-70px)]
+      | ^^^^^^^^^^
+> 120 |       xl:h-[calc(100vh-90px)]
+      | ^^^^^^^^^^
+> 121 |       2xl:h-[calc(100vh-110px)] h-[86vh]
+      | ^^^^^^^^^^
+> 122 |       overflow-y-auto scrollbar-hide
+      | ^^^^^^^^^^
+> 123 |       p-[1%] md:w-[60%] lg:w-[16%]`}
+      | ^^^^^^^^^^
+> 124 |     >
+      | ^^^^^^^^^^
+> 125 |       <SidebarSection title="Inbox" items={SIDEBAR_CONFIG.inbox} />
+      | ^^^^^^^^^^
+> 126 |
+      | ^^^^^^^^^^
+> 127 |       <Divider />
+      | ^^^^^^^^^^
+> 128 |
+      | ^^^^^^^^^^
+> 129 |       <SidebarGroup title="Teams">
+      | ^^^^^^^^^^
+> 130 |         {SIDEBAR_CONFIG.teams.map((item) => (
+      | ^^^^^^^^^^
+> 131 |           <SidebarDropdownItem key={item.label} {...item} />
+      | ^^^^^^^^^^
+> 132 |         ))}
+      | ^^^^^^^^^^
+> 133 |       </SidebarGroup>
+      | ^^^^^^^^^^
+> 134 |
+      | ^^^^^^^^^^
+> 135 |       <Divider />
+      | ^^^^^^^^^^
+> 136 |
+      | ^^^^^^^^^^
+> 137 |       <SidebarGroup title="Users">
+      | ^^^^^^^^^^
+> 138 |         {isLoading ? <SidebarUsersSkeleton /> : users}
+      | ^^^^^^^^^^
+> 139 |       </SidebarGroup>
+      | ^^^^^^^^^^
+> 140 |
+      | ^^^^^^^^^^
+> 141 |       <Divider />
+      | ^^^^^^^^^^
+> 142 |
+      | ^^^^^^^^^^
+> 143 |       <SidebarSection
+      | ^^^^^^^^^^
+> 144 |         title="Channels"
+      | ^^^^^^^^^^
+> 145 |         items={SIDEBAR_CONFIG.channels}
+      | ^^^^^^^^^^
+> 146 |         type="channel"
+      | ^^^^^^^^^^
+> 147 |       />
+      | ^^^^^^^^^^
+> 148 |     </aside>
+      | ^^^^^^^^^^
+> 149 |   );
+      | ^^^^^
+  150 | };
+  151 |
+  152 | export default Sidebar;
+
+Return statement is not allowed here
+
+Import trace:
+  Server Component:
+    ./src/components/DashbaordSidebar/DashbaordSidebar.tsx
+    ./src/app/dashboard/inbox/page.tsx
+[00:11:47.507] Server  LOG      ✓ Compiled in 58ms
+[00:11:48.041] Browser ERROR   ./src/components/DashbaordSidebar/DashbaordSidebar.tsx:114:3
+Parsing ecmascript source code failed
+  112 |   }
+  113 |
+> 114 |   return (
+      |   ^^^^^^^^
+> 115 |     <aside
+      | ^^^^^^^^^^
+> 116 |       className={`shadow-sm lg:rounded-xl bg-[#FAFAF8]
+      | ^^^^^^^^^^
+> 117 |       ${openSidebar ? "block" : "hidden"}
+      | ^^^^^^^^^^
+> 118 |       md:block md:h-[calc(100vh-143.84px)]
+      | ^^^^^^^^^^
+> 119 |       lg:h-[calc(100vh-70px)]
+      | ^^^^^^^^^^
+> 120 |       xl:h-[calc(100vh-90px)]
+      | ^^^^^^^^^^
+> 121 |       2xl:h-[calc(100vh-110px)] h-[86vh]
+      | ^^^^^^^^^^
+> 122 |       overflow-y-auto scrollbar-hide
+      | ^^^^^^^^^^
+> 123 |       p-[1%] md:w-[60%] lg:w-[16%]`}
+      | ^^^^^^^^^^
+> 124 |     >
+      | ^^^^^^^^^^
+> 125 |       <SidebarSection title="Inbox" items={SIDEBAR_CONFIG.inbox} />
+      | ^^^^^^^^^^
+> 126 |
+      | ^^^^^^^^^^
+> 127 |       <Divider />
+      | ^^^^^^^^^^
+> 128 |
+      | ^^^^^^^^^^
+> 129 |       <SidebarGroup title="Teams">
+      | ^^^^^^^^^^
+> 130 |         {SIDEBAR_CONFIG.teams.map((item) => (
+      | ^^^^^^^^^^
+> 131 |           <SidebarDropdownItem key={item.label} {...item} />
+      | ^^^^^^^^^^
+> 132 |         ))}
+      | ^^^^^^^^^^
+> 133 |       </SidebarGroup>
+      | ^^^^^^^^^^
+> 134 |
+      | ^^^^^^^^^^
+> 135 |       <Divider />
+      | ^^^^^^^^^^
+> 136 |
+      | ^^^^^^^^^^
+> 137 |       <SidebarGroup title="Users">
+      | ^^^^^^^^^^
+> 138 |         {isLoading ? <SidebarUsersSkeleton /> : users}
+      | ^^^^^^^^^^
+> 139 |       </SidebarGroup>
+      | ^^^^^^^^^^
+> 140 |
+      | ^^^^^^^^^^
+> 141 |       <Divider />
+      | ^^^^^^^^^^
+> 142 |
+      | ^^^^^^^^^^
+> 143 |       <SidebarSection
+      | ^^^^^^^^^^
+> 144 |         title="Channels"
+      | ^^^^^^^^^^
+> 145 |         items={SIDEBAR_CONFIG.channels}
+      | ^^^^^^^^^^
+> 146 |         type="channel"
+      | ^^^^^^^^^^
+> 147 |       />
+      | ^^^^^^^^^^
+> 148 |     </aside>
+      | ^^^^^^^^^^
+> 149 |   );
+      | ^^^^^
+  150 | };
+  151 |
+  152 | export default Sidebar;
+
+Return statement is not allowed here
+
+Import trace:
+  Server Component:
+    ./src/components/DashbaordSidebar/DashbaordSidebar.tsx
+    ./src/app/dashboard/inbox/page.tsx
+[00:11:52.163] Server  LOG      ✓ Compiled in 354ms
+[00:11:53.769] Server  LOG      ✓ Compiled in 303ms
+[00:11:56.541] Server  LOG      ✓ Compiled in 53ms
+[00:11:57.308] Browser ERROR   ./src/components/DashbaordSidebar/DashbaordSidebar.tsx:81:7
+Parsing ecmascript source code failed
+  79 | const Sidebar = ({ openSidebar = false }: { openSidebar: boolean }) => {
+  80 |   const { workspaceStatus } = useWorkspaceStore();
+> 81 | const router
+     |       ^^^^^^
+  82 |   const { data, isLoading, isError } =
+  83 |       useDelayedQuery<{ users: User[] }>({
+  84 |       cacheKey: ["users"],
+
+'const' declarations must be initialized
+
+Import trace:
+  Server Component:
+    ./src/components/DashbaordSidebar/DashbaordSidebar.tsx
+    ./src/app/dashboard/inbox/page.tsx
+[00:12:01.168] Server  LOG      ✓ Compiled in 177ms
+[00:12:06.522] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__09e6601c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:06.525] Server  ERROR    ⨯ ReferenceError: user is not defined
+[00:12:07.048] Browser ERROR   uncaughtError: ReferenceError: user is not defined
+[00:12:28.082] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__09e6601c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:12:28.083] Server  ERROR    ⨯ ReferenceError: useRo is not defined
+[00:12:28.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:29.053] Browser ERROR   uncaughtError: ReferenceError: useRo is not defined
+[00:12:31.044] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:7:10
+Ecmascript file had an error
+   5 | import MessagingWorkspace from '@/components/MessagingWorkspace'
+   6 | import ConversationInsightPanel from '@/components/ConversationInsightPanel'
+>  7 | import { useRouter } from 'next/navigation'
+     |          ^^^^^^^^^
+   8 |
+   9 | const Inbox = () => {
+  10 | const router=useRouter()
+
+You're importing a component that needs `useRouter`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[00:12:41.046] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:17:5
+Parsing ecmascript source code failed
+  15 |   }, [workspaceStatus]);
+  16 | };
+> 17 |     return (
+     |     ^^^^^^^^
+> 18 |         <>
+     | ^^^^^^^^^^
+> 19 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 20 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 21 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 22 |                 
+     | ^^^^^^^^^^
+> 23 |                 {/* <DashbaordSidebar openSidebar={false} /> */}
+     | ^^^^^^^^^^
+> 24 |                {/* <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 25 |                  <ChatMessages/> */}
+     | ^^^^^^^^^^
+> 26 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 27 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 28 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 29 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 30 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 31 |
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |         </div>
+     | ^^^^^^^^^^
+> 34 |          </div>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </>
+     | ^^^^^^^^^^
+> 37 |     )
+     | ^^^^^^
+  38 | }
+  39 |
+  40 | export default Inbox
+
+Return statement is not allowed here
+[00:12:47.047] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:19:5
+Parsing ecmascript source code failed
+  17 |   }, [workspaceStatus]);
+  18 | };
+> 19 |     return (
+     |     ^^^^^^^^
+> 20 |         <>
+     | ^^^^^^^^^^
+> 21 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 22 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 23 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 24 |                 
+     | ^^^^^^^^^^
+> 25 |                 {/* <DashbaordSidebar openSidebar={false} /> */}
+     | ^^^^^^^^^^
+> 26 |                {/* <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 27 |                  <ChatMessages/> */}
+     | ^^^^^^^^^^
+> 28 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 29 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 30 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 31 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 32 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |          </div>
+     | ^^^^^^^^^^
+> 37 |
+     | ^^^^^^^^^^
+> 38 |         </>
+     | ^^^^^^^^^^
+> 39 |     )
+     | ^^^^^^
+  40 | }
+  41 |
+  42 | export default Inbox
+
+Return statement is not allowed here
+[00:12:51.042] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:20:5
+Parsing ecmascript source code failed
+  18 |   }, [workspaceStatus]);
+  19 | };
+> 20 |     return (
+     |     ^^^^^^^^
+> 21 |         <>
+     | ^^^^^^^^^^
+> 22 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 23 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 24 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 25 |                 
+     | ^^^^^^^^^^
+> 26 |                 {/* <DashbaordSidebar openSidebar={false} /> */}
+     | ^^^^^^^^^^
+> 27 |                {/* <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 28 |                  <ChatMessages/> */}
+     | ^^^^^^^^^^
+> 29 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 30 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 31 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 32 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 33 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </div>
+     | ^^^^^^^^^^
+> 37 |          </div>
+     | ^^^^^^^^^^
+> 38 |
+     | ^^^^^^^^^^
+> 39 |         </>
+     | ^^^^^^^^^^
+> 40 |     )
+     | ^^^^^^
+  41 | }
+  42 |
+  43 | export default Inbox
+
+Return statement is not allowed here
+[00:12:53.146] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                 
+     | ^^^^^^^^^^
+> 27 |                 {/* <DashbaordSidebar openSidebar={false} /> */}
+     | ^^^^^^^^^^
+> 28 |                {/* <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/> */}
+     | ^^^^^^^^^^
+> 30 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 31 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 32 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 33 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 34 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </div>
+     | ^^^^^^^^^^
+> 38 |          </div>
+     | ^^^^^^^^^^
+> 39 |
+     | ^^^^^^^^^^
+> 40 |         </>
+     | ^^^^^^^^^^
+> 41 |     )
+     | ^^^^^^
+  42 | }
+  43 |
+  44 | export default Inbox
+
+Return statement is not allowed here
+[00:12:56.050] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                 
+     | ^^^^^^^^^^
+> 27 |                 {/* <DashbaordSidebar openSidebar={false} /> */}
+     | ^^^^^^^^^^
+> 28 |                {/* <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/> */}
+     | ^^^^^^^^^^
+> 30 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 31 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 32 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 33 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 34 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </div>
+     | ^^^^^^^^^^
+> 38 |          </div>
+     | ^^^^^^^^^^
+> 39 |
+     | ^^^^^^^^^^
+> 40 |         </>
+     | ^^^^^^^^^^
+> 41 |     )
+     | ^^^^^^
+  42 | }
+  43 |
+  44 | export default Inbox
+
+Return statement is not allowed here
+[00:13:03.047] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                 
+     | ^^^^^^^^^^
+> 27 |    
+     | ^^^^^^^^^^
+> 28 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 29 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 30 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 31 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 32 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |          </div>
+     | ^^^^^^^^^^
+> 37 |
+     | ^^^^^^^^^^
+> 38 |         </>
+     | ^^^^^^^^^^
+> 39 |     )
+     | ^^^^^^
+  40 | }
+  41 |
+  42 | export default Inbox
+
+Return statement is not allowed here
+[00:13:04.042] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 27 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 28 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 29 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 30 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 31 |
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |         </div>
+     | ^^^^^^^^^^
+> 34 |          </div>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </>
+     | ^^^^^^^^^^
+> 37 |     )
+     | ^^^^^^
+  38 | }
+  39 |
+  40 | export default Inbox
+
+Return statement is not allowed here
+[00:13:07.043] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:22:5
+Parsing ecmascript source code failed
+  20 |   }, [workspaceStatus]);
+  21 | };
+> 22 |     return (
+     |     ^^^^^^^^
+> 23 |         <>
+     | ^^^^^^^^^^
+> 24 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 25 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 26 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 27 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 28 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 30 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 31 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |         </div>
+     | ^^^^^^^^^^
+> 35 |          </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </>
+     | ^^^^^^^^^^
+> 38 |     )
+     | ^^^^^^
+  39 | }
+  40 |
+  41 | export default Inbox
+
+Return statement is not allowed here
+[00:13:16.039] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:16:5
+Parsing ecmascript source code failed
+  14 |   }, [workspaceStatus]);
+  15 | };
+> 16 |     return (
+     |     ^^^^^^^^
+> 17 |         <>
+     | ^^^^^^^^^^
+> 18 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 19 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 20 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 21 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 22 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 23 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 24 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 25 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 26 |
+     | ^^^^^^^^^^
+> 27 |
+     | ^^^^^^^^^^
+> 28 |         </div>
+     | ^^^^^^^^^^
+> 29 |          </div>
+     | ^^^^^^^^^^
+> 30 |
+     | ^^^^^^^^^^
+> 31 |         </>
+     | ^^^^^^^^^^
+> 32 |     )
+     | ^^^^^^
+  33 | }
+  34 |
+  35 | export default Inbox
+
+Return statement is not allowed here
+[00:13:16.039] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:16:5
+Parsing ecmascript source code failed
+  14 |   }, [workspaceStatus]);
+  15 | };
+> 16 |     return (
+     |     ^^^^^^^^
+> 17 |         <>
+     | ^^^^^^^^^^
+> 18 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 19 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 20 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 21 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 22 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 23 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 24 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 25 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 26 |
+     | ^^^^^^^^^^
+> 27 |
+     | ^^^^^^^^^^
+> 28 |         </div>
+     | ^^^^^^^^^^
+> 29 |          </div>
+     | ^^^^^^^^^^
+> 30 |
+     | ^^^^^^^^^^
+> 31 |         </>
+     | ^^^^^^^^^^
+> 32 |     )
+     | ^^^^^^
+  33 | }
+  34 |
+  35 | export default Inbox
+
+Return statement is not allowed here
+[00:13:29.038] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:22:5
+Parsing ecmascript source code failed
+  20 |   }, [workspaceStatus]);
+  21 | };
+> 22 |     return (
+     |     ^^^^^^^^
+> 23 |         <>
+     | ^^^^^^^^^^
+> 24 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 25 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 26 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 27 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 28 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 30 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 31 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |         </div>
+     | ^^^^^^^^^^
+> 35 |          </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </>
+     | ^^^^^^^^^^
+> 38 |     )
+     | ^^^^^^
+  39 | }
+  40 |
+  41 | export default Inbox
+
+Return statement is not allowed here
+[00:13:30.041] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                  <DashbaordSidebar openSidebar={false} /> 
+     | ^^^^^^^^^^
+> 27 |                  <MessagingWorkspace />
+     | ^^^^^^^^^^
+> 28 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 29 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 30 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 31 |
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |         </div>
+     | ^^^^^^^^^^
+> 34 |          </div>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </>
+     | ^^^^^^^^^^
+> 37 |     )
+     | ^^^^^^
+  38 | }
+  39 |
+  40 | export default Inbox
+
+Return statement is not allowed here
+[00:13:36.766] Server  LOG      ✓ Compiled in 58ms
+[00:13:37.357] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__f43f7cf4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:37.359] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:13:37.686] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:45.510] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__09e6601c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:45.511] Server  ERROR    ⨯ ReferenceError: useWorkspaceStore is not defined
+[00:13:46.050] Browser ERROR   uncaughtError: ReferenceError: useWorkspaceStore is not defined
+[00:13:48.006] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\node_modules_46b8201e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:48.008] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__9a7e9f89._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:48.036] Server  ERROR    ⨯ TypeError: useSyncExternalStore only works in Client Components. Add the "use client" directive at the top of the file to use it. Read more: https://nextjs.org/docs/messages/react-client-hook-in-server-component
+[00:13:48.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:49.043] Browser ERROR   uncaughtError: TypeError: useSyncExternalStore only works in Client Components. Add the "use client" directive at the top of the file to use it. Read more: https://nextjs.org/docs/messages/react-client-hook-in-server-component
+[00:13:50.088] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\node_modules_46b8201e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:50.089] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__9a7e9f89._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:50.090] Server  ERROR    ⨯ TypeError: useSyncExternalStore only works in Client Components. Add the "use client" directive at the top of the file to use it. Read more: https://nextjs.org/docs/messages/react-client-hook-in-server-component
+[00:13:50.719] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:51.057] Browser ERROR   uncaughtError: TypeError: useSyncExternalStore only works in Client Components. Add the "use client" directive at the top of the file to use it. Read more: https://nextjs.org/docs/messages/react-client-hook-in-server-component
+[00:13:53.730] Server  ERROR   C:\Users\Pxl\Documents\FavLogicx\.next\dev\server\chunks\ssr\[root-of-the-server]__d01b8598._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:13:53.731] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'slice')
+[00:13:54.079] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:05.004] Server  LOG      ✓ Compiled in 59ms
+[00:14:06.039] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:18:5
+Parsing ecmascript source code failed
+  16 |   }, [workspaceStatus]);
+  17 | };
+> 18 |     return (
+     |     ^^^^^^^^
+> 19 |         <>
+     | ^^^^^^^^^^
+> 20 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 21 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 22 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 23 |                 
+     | ^^^^^^^^^^
+> 24 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 25 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 26 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 27 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 28 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 29 |
+     | ^^^^^^^^^^
+> 30 |
+     | ^^^^^^^^^^
+> 31 |         </div>
+     | ^^^^^^^^^^
+> 32 |          </div>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |         </>
+     | ^^^^^^^^^^
+> 35 |     )
+     | ^^^^^^
+  36 | }
+  37 |
+  38 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:08.038] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:19:5
+Parsing ecmascript source code failed
+  17 |   }, [workspaceStatus]);
+  18 | };
+> 19 |     return (
+     |     ^^^^^^^^
+> 20 |         <>
+     | ^^^^^^^^^^
+> 21 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 22 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 23 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 24 |                 
+     | ^^^^^^^^^^
+> 25 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 26 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 27 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 28 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 29 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 30 |
+     | ^^^^^^^^^^
+> 31 |
+     | ^^^^^^^^^^
+> 32 |         </div>
+     | ^^^^^^^^^^
+> 33 |          </div>
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </>
+     | ^^^^^^^^^^
+> 36 |     )
+     | ^^^^^^
+  37 | }
+  38 |
+  39 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:38.740] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:20:5
+Parsing ecmascript source code failed
+  18 |   }, [workspaceStatus]);
+  19 | };
+> 20 |     return (
+     |     ^^^^^^^^
+> 21 |         <>
+     | ^^^^^^^^^^
+> 22 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 23 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 24 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 25 |                 
+     | ^^^^^^^^^^
+> 26 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 27 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 28 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 29 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 30 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 31 |
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |         </div>
+     | ^^^^^^^^^^
+> 34 |          </div>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </>
+     | ^^^^^^^^^^
+> 37 |     )
+     | ^^^^^^
+  38 | }
+  39 |
+  40 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:40.043] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:20:5
+Parsing ecmascript source code failed
+  18 |   }, [workspaceStatus]);
+  19 | };
+> 20 |     return (
+     |     ^^^^^^^^
+> 21 |         <>
+     | ^^^^^^^^^^
+> 22 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 23 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 24 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 25 |                 
+     | ^^^^^^^^^^
+> 26 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 27 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 28 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 29 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 30 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 31 |
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |         </div>
+     | ^^^^^^^^^^
+> 34 |          </div>
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </>
+     | ^^^^^^^^^^
+> 37 |     )
+     | ^^^^^^
+  38 | }
+  39 |
+  40 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:42.977] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                 
+     | ^^^^^^^^^^
+> 27 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 28 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 30 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 31 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |         </div>
+     | ^^^^^^^^^^
+> 35 |          </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </>
+     | ^^^^^^^^^^
+> 38 |     )
+     | ^^^^^^
+  39 | }
+  40 |
+  41 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:43.738] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 |   }, [workspaceStatus]);
+  20 | };
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                 
+     | ^^^^^^^^^^
+> 27 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 28 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 30 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 31 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |         </div>
+     | ^^^^^^^^^^
+> 35 |          </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </>
+     | ^^^^^^^^^^
+> 38 |     )
+     | ^^^^^^
+  39 | }
+  40 |
+  41 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:53.310] Server  LOG      ✓ Compiled in 72ms
+[00:14:53.426] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:22:5
+Parsing ecmascript source code failed
+  20 |       const { workspaceStatus } = useWorkspaceStore();
+  21 |
+> 22 |     return (
+     |     ^^^^^^^^
+> 23 |         <>
+     | ^^^^^^^^^^
+> 24 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 25 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 26 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 27 |                 
+     | ^^^^^^^^^^
+> 28 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 29 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 30 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 31 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 32 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |          </div>
+     | ^^^^^^^^^^
+> 37 |
+     | ^^^^^^^^^^
+> 38 |         </>
+     | ^^^^^^^^^^
+> 39 |     )
+     | ^^^^^^
+  40 | }
+  41 |
+  42 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:14:54.041] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:22:5
+Parsing ecmascript source code failed
+  20 |       const { workspaceStatus } = useWorkspaceStore();
+  21 |
+> 22 |     return (
+     |     ^^^^^^^^
+> 23 |         <>
+     | ^^^^^^^^^^
+> 24 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 25 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 26 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 27 |                 
+     | ^^^^^^^^^^
+> 28 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 29 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 30 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 31 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 32 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |          </div>
+     | ^^^^^^^^^^
+> 37 |
+     | ^^^^^^^^^^
+> 38 |         </>
+     | ^^^^^^^^^^
+> 39 |     )
+     | ^^^^^^
+  40 | }
+  41 |
+  42 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:15:01.711] Server  LOG      ✓ Compiled in 1878ms
+[00:15:01.815] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:22:5
+Parsing ecmascript source code failed
+  20 |       const { workspaceStatus } = useWorkspaceStore();
+  21 |
+> 22 |     return (
+     |     ^^^^^^^^
+> 23 |         <>
+     | ^^^^^^^^^^
+> 24 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 25 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 26 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 27 |                 
+     | ^^^^^^^^^^
+> 28 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 29 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 30 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 31 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 32 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |          </div>
+     | ^^^^^^^^^^
+> 37 |
+     | ^^^^^^^^^^
+> 38 |         </>
+     | ^^^^^^^^^^
+> 39 |     )
+     | ^^^^^^
+  40 | }
+  41 |
+  42 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:15:48.138] Server  LOG      ✓ Compiled in 70ms
+[00:15:48.242] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:22:5
+Parsing ecmascript source code failed
+  20 |       const { workspaceStatus } = useWorkspaceStore();
+  21 |
+> 22 |     return (
+     |     ^^^^^^^^
+> 23 |         <>
+     | ^^^^^^^^^^
+> 24 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 25 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 26 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 27 |                 
+     | ^^^^^^^^^^
+> 28 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 29 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 30 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 31 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 32 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |          </div>
+     | ^^^^^^^^^^
+> 37 |
+     | ^^^^^^^^^^
+> 38 |         </>
+     | ^^^^^^^^^^
+> 39 |     )
+     | ^^^^^^
+  40 | }
+  41 |
+  42 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:16:21.164] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:21:5
+Parsing ecmascript source code failed
+  19 | };
+  20 |
+> 21 |     return (
+     |     ^^^^^^^^
+> 22 |         <>
+     | ^^^^^^^^^^
+> 23 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 24 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 25 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 26 |                 
+     | ^^^^^^^^^^
+> 27 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 28 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 29 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 30 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 31 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 32 |
+     | ^^^^^^^^^^
+> 33 |
+     | ^^^^^^^^^^
+> 34 |         </div>
+     | ^^^^^^^^^^
+> 35 |          </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         </>
+     | ^^^^^^^^^^
+> 38 |     )
+     | ^^^^^^
+  39 | }
+  40 |
+  41 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:16:22.866] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:23:5
+Parsing ecmascript source code failed
+  21 | };
+  22 |
+> 23 |     return (
+     |     ^^^^^^^^
+> 24 |         <>
+     | ^^^^^^^^^^
+> 25 |          <div className='w-[96%] lg:w-full mx-auto'>
+     | ^^^^^^^^^^
+> 26 |           <DashbaordHeader/>
+     | ^^^^^^^^^^
+> 27 |         <div className=" flex  lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^
+> 28 |                 
+     | ^^^^^^^^^^
+> 29 |                 <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^
+> 30 |                <MessagingWorkspace /> 
+     | ^^^^^^^^^^
+> 31 |                  <ChatMessages/>
+     | ^^^^^^^^^^
+> 32 |              <ConversationInsightPanel open={false}  /> 
+     | ^^^^^^^^^^
+> 33 |   <MobileModuleNavigation/>
+     | ^^^^^^^^^^
+> 34 |
+     | ^^^^^^^^^^
+> 35 |
+     | ^^^^^^^^^^
+> 36 |         </div>
+     | ^^^^^^^^^^
+> 37 |          </div>
+     | ^^^^^^^^^^
+> 38 |
+     | ^^^^^^^^^^
+> 39 |         </>
+     | ^^^^^^^^^^
+> 40 |     )
+     | ^^^^^^
+  41 | }
+  42 |
+  43 | export default Inbox
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:19:47.961] Server  LOG      ✓ Compiled in 181ms
+[00:20:21.301] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:21.861] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:20:33.891] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:54.880] Server  LOG      ✓ Compiled in 52ms
+[00:21:12.470] Server  LOG      ✓ Compiled in 92ms
+[00:23:15.653] Server  LOG      ✓ Compiled in 469ms
+[00:23:21.492] Server  LOG      ✓ Compiled in 173ms
+[00:23:38.035] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:38.406] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:23:59.741] Server  LOG      ✓ Compiled in 312ms
+[00:24:22.530] Server  LOG      ✓ Compiled in 341ms
+[00:24:28.962] Server  LOG      ✓ Compiled in 133ms
+[00:24:35.146] Server  LOG      ✓ Compiled in 572ms
+[00:24:45.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:06.230] Server  LOG      ✓ Compiled in 71ms
+[00:26:30.228] Server  LOG      ✓ Compiled in 88ms
+[00:26:31.055] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:26:32.711] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:32.729] Server  LOG      ✓ Compiled in 78ms
+[00:26:33.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:35.037] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/dashboard..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:26:35.037] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Inbox 1. useCallback                useCallback
+2. useCallback                useCallback
+3. useSyncExternalStore       useSyncExternalStore
+4. useDebugValue              useDebugValue
+5. useContext                 useContext
+6. undefined                  useEffect
+
+[00:26:35.037] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:26:35.959] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:36.427] Server  LOG      ✓ Compiled in 53ms
+[00:26:37.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:38.069] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/dashboard..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:26:38.069] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ Inbox 1. useCallback                useCallback
+2. useCallback                useCallback
+3. useSyncExternalStore       useSyncExternalStore
+4. useDebugValue              useDebugValue
+5. useContext                 useContext
+6. undefined                  useEffect
+
+[00:26:38.069] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:26:42.070] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:42.476] Server  LOG      ✓ Compiled in 131ms
+[00:26:43.571] Server  LOG      ✓ Compiled in 108ms
+[00:26:43.752] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:45.110] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/dashboard..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:26:48.136] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:50.452] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:54.545] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:00.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:45.877] Server  LOG      ✓ Compiled in 68ms
+[00:27:57.377] Server  LOG      ✓ Compiled in 154ms
+[00:28:03.519] Server  LOG      ✓ Compiled in 95ms
+[00:28:05.454] Server  LOG      ✓ Compiled in 153ms
+[00:28:10.060] Server  LOG      ✓ Compiled in 105ms
+[00:28:15.543] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:18.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:19.256] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:45.439] Server  LOG      ✓ Compiled in 100ms
+[00:28:46.041] Browser ERROR   uncaughtError: Error: Rendered fewer hooks than expected. This may be caused by an accidental early return statement.
+[00:28:46.044] Browser ERROR   uncaughtError: Error: Rendered fewer hooks than expected. This may be caused by an accidental early return statement.
+[00:32:06.211] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:32:06.213] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:32:06.285] Server  LOG      ✓ Compiled in 77ms
+[00:32:07.781] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:08.726] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:10.039] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/dashboard..." notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:32:59.876] Server  LOG      ✓ Compiled in 120ms
+[00:33:03.930] Server  LOG      ✓ Compiled in 98ms
+[00:33:05.042] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:51:3
+Parsing ecmascript source code failed
+  49 |
+  50 |   // ✅ Normal UI if valid
+> 51 |   return (
+     |   ^^^^^^^^
+> 52 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 63 |   );
+     | ^^^^^
+  64 | };
+  65 |
+  66 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:05.043] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:51:3
+Parsing ecmascript source code failed
+  49 |
+  50 |   // ✅ Normal UI if valid
+> 51 |   return (
+     |   ^^^^^^^^
+> 52 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 63 |   );
+     | ^^^^^
+  64 | };
+  65 |
+  66 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:05.044] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:51:3
+Parsing ecmascript source code failed
+  49 |
+  50 |   // ✅ Normal UI if valid
+> 51 |   return (
+     |   ^^^^^^^^
+> 52 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 63 |   );
+     | ^^^^^
+  64 | };
+  65 |
+  66 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:27.038] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:51:3
+Parsing ecmascript source code failed
+  49 |
+  50 |   // ✅ Normal UI if valid
+> 51 |   return (
+     |   ^^^^^^^^
+> 52 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 63 |   );
+     | ^^^^^
+  64 | };
+  65 |
+  66 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:27.039] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:51:3
+Parsing ecmascript source code failed
+  49 |
+  50 |   // ✅ Normal UI if valid
+> 51 |   return (
+     |   ^^^^^^^^
+> 52 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 63 |   );
+     | ^^^^^
+  64 | };
+  65 |
+  66 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:27.039] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:51:3
+Parsing ecmascript source code failed
+  49 |
+  50 |   // ✅ Normal UI if valid
+> 51 |   return (
+     |   ^^^^^^^^
+> 52 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 63 |   );
+     | ^^^^^
+  64 | };
+  65 |
+  66 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:29.046] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:50:3
+Parsing ecmascript source code failed
+  48 |
+  49 |   // ✅ Normal UI if valid
+> 50 |   return (
+     |   ^^^^^^^^
+> 51 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |   );
+     | ^^^^^
+  63 | };
+  64 |
+  65 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:29.047] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:50:3
+Parsing ecmascript source code failed
+  48 |
+  49 |   // ✅ Normal UI if valid
+> 50 |   return (
+     |   ^^^^^^^^
+> 51 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |   );
+     | ^^^^^
+  63 | };
+  64 |
+  65 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:29.047] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:50:3
+Parsing ecmascript source code failed
+  48 |
+  49 |   // ✅ Normal UI if valid
+> 50 |   return (
+     |   ^^^^^^^^
+> 51 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |   );
+     | ^^^^^
+  63 | };
+  64 |
+  65 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:33.049] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:49:3
+Parsing ecmascript source code failed
+  47 |
+  48 |   // ✅ Normal UI if valid
+> 49 |   return (
+     |   ^^^^^^^^
+> 50 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 51 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |   );
+     | ^^^^^
+  62 | };
+  63 |
+  64 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:33.049] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:49:3
+Parsing ecmascript source code failed
+  47 |
+  48 |   // ✅ Normal UI if valid
+> 49 |   return (
+     |   ^^^^^^^^
+> 50 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 51 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |   );
+     | ^^^^^
+  62 | };
+  63 |
+  64 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:33.050] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:49:3
+Parsing ecmascript source code failed
+  47 |
+  48 |   // ✅ Normal UI if valid
+> 49 |   return (
+     |   ^^^^^^^^
+> 50 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 51 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |   );
+     | ^^^^^
+  62 | };
+  63 |
+  64 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:40.051] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:50:3
+Parsing ecmascript source code failed
+  48 |
+  49 |   // ✅ Normal UI if valid
+> 50 |   return (
+     |   ^^^^^^^^
+> 51 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |   );
+     | ^^^^^
+  63 | };
+  64 |
+  65 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:40.051] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:50:3
+Parsing ecmascript source code failed
+  48 |
+  49 |   // ✅ Normal UI if valid
+> 50 |   return (
+     |   ^^^^^^^^
+> 51 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |   );
+     | ^^^^^
+  63 | };
+  64 |
+  65 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:40.051] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:50:3
+Parsing ecmascript source code failed
+  48 |
+  49 |   // ✅ Normal UI if valid
+> 50 |   return (
+     |   ^^^^^^^^
+> 51 |     <div className="w-[96%] lg:w-full mx-auto">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 52 |       <DashbaordHeader />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 53 |
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 54 |       <div className="flex lg:mt-[0.5%] md:gap-x-[0.5rem] lg:gap-x-[0.5%] rounded-xl overflow-hidden">
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 55 |         <DashbaordSidebar openSidebar={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 56 |         <MessagingWorkspace />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 57 |         <ChatMessages />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         <ConversationInsightPanel open={false} />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |         <MobileModuleNavigation />
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 60 |       </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 61 |     </div>
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 62 |   );
+     | ^^^^^
+  63 | };
+  64 |
+  65 | export default Inbox;
+
+Return statement is not allowed here
+
+Import traces:
+  Client Component Browser:
+    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
+    ./src/app/dashboard/inbox/page.tsx [Server Component]
+[00:33:53.390] Server  LOG      ✓ Compiled in 134ms
+[00:33:56.406] Server  LOG      ✓ Compiled in 77ms
+[00:34:00.787] Server  LOG      ✓ Compiled in 130ms
+[00:34:01.511] Server  LOG      ✓ Compiled in 93ms
+[00:34:13.644] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:20.433] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:51.665] Server  LOG      ✓ Compiled in 392ms
+[00:35:53.722] Server  LOG      ✓ Compiled in 115ms
+[00:36:03.154] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:40.156] Server  LOG      ✓ Compiled in 309ms
+[00:37:44.306] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

@@ -45,7 +45,7 @@ const { data: messages=[], isLoading } =
   useDelayedQuery<Message[]>({
     cacheKey: ["single-chat"],
     requestHandler: getChatMessages,
-    isActive: workspaceStatus === "loading",
+  isActive:workspaceStatus !== "idle",
     minimumDelay: 6000,
   });
    const getTime = (date?: string) =>

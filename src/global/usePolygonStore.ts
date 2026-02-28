@@ -30,8 +30,6 @@ export const useWorkspaceStore = create<WorkspaceState>()(
           workspaceStatus: "idle",
         }),
     }),
-    {
-      name: "workspace-session",
-    }
+    { name: "workspace-session" }
   )
 );

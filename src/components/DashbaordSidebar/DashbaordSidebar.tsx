@@ -4,7 +4,7 @@ import { fetchUsers } from "@/api/users";
 import { useWorkspaceStore } from "@/global/usePolygonStore";
 import { useDelayedQuery } from "@/lib/useDelayedQuery";
 import Image from "next/image";
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 
 /* =========================
    Types
@@ -78,14 +78,14 @@ const SIDEBAR_CONFIG = {
 
 const Sidebar = ({ openSidebar = false }: { openSidebar: boolean }) => {
   const { workspaceStatus } = useWorkspaceStore();
-
   const { data, isLoading, isError } =
       useDelayedQuery<{ users: User[] }>({
       cacheKey: ["users"],
   requestHandler: fetchUsers,
-  isActive: workspaceStatus === "loading",
+  isActive:workspaceStatus !== "idle",
   minimumDelay: 6000,
   });
+
   const users = useMemo(() => {
     if (!data?.users) return null;
 

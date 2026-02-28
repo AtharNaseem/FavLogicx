@@ -242,7 +242,7 @@ const { workspaceStatus } = useWorkspaceStore();
   const { data: chats, isLoading, } = useDelayedQuery({
   cacheKey: ["chats"],
   requestHandler: getChatList,
-     isActive: workspaceStatus === "loading",
+  isActive:workspaceStatus !== "idle",
     minimumDelay: 6000,
 });
 const [activeConversation, setActiveConversation] = useState<ChatPost | null>(null);

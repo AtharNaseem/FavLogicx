@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Pxl/Documents/FavLogicx/src/components/Providers.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport { QueryClient, QueryClientProvider } from \"@tanstack/react-query\";\r\nimport { ReactQueryDevtools } from \"@tanstack/react-query-devtools\";\r\n\r\nconst queryClient = new QueryClient();\r\n\r\nexport default function Providers({ children }: { children: React.ReactNode }) {\r\n  return (\r\n    <QueryClientProvider client={queryClient}>\r\n      {children}\r\n       {process.env.NODE_ENV === \"development\" && (\r\n        <ReactQueryDevtools initialIsOpen={false} />\r\n      )}\r\n    </QueryClientProvider>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAEA;AAAA;AACA;AAHA;;;;AAKA,MAAM,cAAc,IAAI,4LAAW;AAEpB,SAAS,UAAU,EAAE,QAAQ,EAAiC;IAC3E,qBACE,8OAAC,6MAAmB;QAAC,QAAQ;;YAC1B;YACC,oDAAyB,+BACzB,8OAAC,0MAAkB;gBAAC,eAAe;;;;;;;;;;;;AAI3C"}}]
+}

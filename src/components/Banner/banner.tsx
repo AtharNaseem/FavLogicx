@@ -22,15 +22,17 @@ const ModuleLoaderHero = () => {
   const [activeModule, setActiveModule] = useState<PolygonItem | null>(null);
   const router = useRouter();
 
-  const handleModuleSelect = (module: PolygonItem) => {
-    setActiveModule(module);
-    setActivePolygon(module.label);
-    setWorkspaceStatus("loading");
+const handleModuleSelect = (module: PolygonItem) => {
+  setActiveModule(module);
+  setActivePolygon(module.label);
+  setWorkspaceStatus("loading");
 
-    setTimeout(() => {
-      router.push("/dashboard/inbox");
-    }, 3000);
-  };
+  router.prefetch("/dashboard/inbox"); // 🔥 preload
+
+  setTimeout(() => {
+    router.replace("/dashboard/inbox");
+  }, 3000);
+};
 
   const fadeUpVariant = {
     hidden: { opacity: 0, y: 20 },

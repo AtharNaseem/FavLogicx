@@ -68,7 +68,7 @@ const { data: profileData, isLoading:isProfileLoading } =
   useDelayedQuery<profileDataDetail>({
       cacheKey: ["detail"],
   requestHandler: fetchDetail,
-  isActive: workspaceStatus === "loading",
+  isActive:workspaceStatus !== "idle",
   minimumDelay: 6000,
   });
 
