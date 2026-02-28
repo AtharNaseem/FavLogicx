@@ -6194,6 +6194,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Messagi
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ConversationInsightPanel$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ConversationInsightPanel.tsx [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$global$2f$usePolygonStore$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/global/usePolygonStore.ts [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/navigation.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.js [app-client] (ecmascript) <export default as ArrowRight>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Lock$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/lock.js [app-client] (ecmascript) <export default as Lock>");
 ;
 var _s = __turbopack_context__.k.signature();
@@ -6210,115 +6211,229 @@ var _s = __turbopack_context__.k.signature();
 ;
 const Inbox = ()=>{
     _s();
-    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(8);
-    if ($[0] !== "405a67b3d0e42f867660f9db155377370c94045322b5b8ef710c041eb47fc4b8") {
-        for(let $i = 0; $i < 8; $i += 1){
+    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(17);
+    if ($[0] !== "dd3f36bc12fe78d3e66767d15087db47fe9bcd185f5e2333dab483cebc88c625") {
+        for(let $i = 0; $i < 17; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "405a67b3d0e42f867660f9db155377370c94045322b5b8ef710c041eb47fc4b8";
+        $[0] = "dd3f36bc12fe78d3e66767d15087db47fe9bcd185f5e2333dab483cebc88c625";
     }
     const { activeModuleKey } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$global$2f$usePolygonStore$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useWorkspaceStore"])();
     const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
     if (!activeModuleKey) {
         let t0;
         let t1;
-        let t2;
         if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
             t0 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex justify-center mb-6",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "bg-[#007AEC]/20 p-4 rounded-full",
-                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Lock$3e$__["Lock"], {
-                        className: "w-8 h-8 text-[#007AEC]"
-                    }, void 0, false, {
-                        fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                        lineNumber: 30,
-                        columnNumber: 104
-                    }, ("TURBOPACK compile-time value", void 0))
-                }, void 0, false, {
-                    fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                    lineNumber: 30,
-                    columnNumber: 54
-                }, ("TURBOPACK compile-time value", void 0))
+                className: "absolute w-[500px] h-[500px] bg-[#007AEC]/20 blur-[150px] rounded-full top-[-150px] left-[-150px]"
+            }, void 0, false, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 29,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            t1 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "absolute w-[400px] h-[400px] bg-purple-600/10 blur-[120px] rounded-full bottom-[-120px] right-[-120px]"
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/inbox/page.tsx",
                 lineNumber: 30,
                 columnNumber: 12
             }, ("TURBOPACK compile-time value", void 0));
-            t1 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                className: "text-2xl font-semibold text-white mb-3",
-                children: "Module Access Required"
-            }, void 0, false, {
-                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                lineNumber: 31,
-                columnNumber: 12
-            }, ("TURBOPACK compile-time value", void 0));
-            t2 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                className: "text-white/60 text-sm leading-relaxed mb-8",
-                children: "Please select a module from the home dashboard before accessing the inbox workspace."
-            }, void 0, false, {
-                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                lineNumber: 32,
-                columnNumber: 12
-            }, ("TURBOPACK compile-time value", void 0));
             $[1] = t0;
             $[2] = t1;
-            $[3] = t2;
         } else {
             t0 = $[1];
             t1 = $[2];
-            t2 = $[3];
         }
+        let t2;
         let t3;
-        if ($[4] !== router) {
-            t3 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "min-h-screen flex items-center justify-center bg-gradient-to-br from-[#05070C] via-[#0A0F1A] to-[#05070C]",
+        let t4;
+        if ($[3] === Symbol.for("react.memo_cache_sentinel")) {
+            t2 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "flex justify-center mb-8",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "w-full max-w-md text-center bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl p-10 shadow-2xl",
-                    children: [
-                        t0,
-                        t1,
-                        t2,
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                            onClick: ()=>router.push("/"),
-                            className: "w-full bg-[#007AEC] hover:bg-[#0066cc] text-white py-3 rounded-lg font-medium transition-all duration-300 shadow-lg hover:shadow-[#007AEC]/40",
-                            children: "Go to Dashboard"
-                        }, void 0, false, {
-                            fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                            lineNumber: 43,
-                            columnNumber: 271
-                        }, ("TURBOPACK compile-time value", void 0))
-                    ]
-                }, void 0, true, {
+                    className: "bg-[#007AEC]/10 border border-[#007AEC]/30 p-6 rounded-2xl",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Lock$3e$__["Lock"], {
+                        className: "w-10 h-10 text-[#007AEC]"
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                        lineNumber: 41,
+                        columnNumber: 130
+                    }, ("TURBOPACK compile-time value", void 0))
+                }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                    lineNumber: 43,
-                    columnNumber: 135
+                    lineNumber: 41,
+                    columnNumber: 54
                 }, ("TURBOPACK compile-time value", void 0))
+            }, void 0, false, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 41,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            t3 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                className: "text-3xl font-semibold text-white mb-4 tracking-tight",
+                children: "Secure Workspace Locked"
+            }, void 0, false, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 42,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            t4 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "text-white/60 text-lg leading-relaxed mb-8",
+                children: "The Inbox workspace is part of an active module environment. To access conversations and insights, please activate a module from your dashboard."
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/inbox/page.tsx",
                 lineNumber: 43,
                 columnNumber: 12
             }, ("TURBOPACK compile-time value", void 0));
-            $[4] = router;
-            $[5] = t3;
+            $[3] = t2;
+            $[4] = t3;
+            $[5] = t4;
         } else {
-            t3 = $[5];
+            t2 = $[3];
+            t3 = $[4];
+            t4 = $[5];
         }
-        return t3;
+        let t5;
+        if ($[6] === Symbol.for("react.memo_cache_sentinel")) {
+            t5 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "grid grid-cols-1 sm:grid-cols-3 gap-4 text-sm text-white/50 mb-10",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "bg-white/5 border border-white/10 rounded-xl py-4",
+                        children: "Real-time Messaging"
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                        lineNumber: 54,
+                        columnNumber: 95
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "bg-white/5 border border-white/10 rounded-xl py-4",
+                        children: "Insight Panels"
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                        lineNumber: 54,
+                        columnNumber: 187
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "bg-white/5 border border-white/10 rounded-xl py-4",
+                        children: "Secure Access"
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                        lineNumber: 54,
+                        columnNumber: 274
+                    }, ("TURBOPACK compile-time value", void 0))
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 54,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            $[6] = t5;
+        } else {
+            t5 = $[6];
+        }
+        let t6;
+        if ($[7] !== router) {
+            t6 = ()=>router.push("/");
+            $[7] = router;
+            $[8] = t6;
+        } else {
+            t6 = $[8];
+        }
+        let t7;
+        if ($[9] === Symbol.for("react.memo_cache_sentinel")) {
+            t7 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
+                className: "w-4 h-4 group-hover:translate-x-1 transition"
+            }, void 0, false, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 69,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            $[9] = t7;
+        } else {
+            t7 = $[9];
+        }
+        let t8;
+        if ($[10] !== t6) {
+            t8 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                onClick: t6,
+                className: "group w-full bg-[#007AEC] hover:bg-[#0066cc] text-white py-4 rounded-xl font-medium transition-all duration-300 shadow-lg hover:shadow-[#007AEC]/50 flex items-center justify-center gap-3",
+                children: [
+                    "Activate Module",
+                    t7
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 76,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            $[10] = t6;
+            $[11] = t8;
+        } else {
+            t8 = $[11];
+        }
+        let t9;
+        if ($[12] === Symbol.for("react.memo_cache_sentinel")) {
+            t9 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "text-white/30 text-xs mt-6",
+                children: "Module activation ensures controlled access and structured workflows."
+            }, void 0, false, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 84,
+                columnNumber: 12
+            }, ("TURBOPACK compile-time value", void 0));
+            $[12] = t9;
+        } else {
+            t9 = $[12];
+        }
+        let t10;
+        if ($[13] !== t8) {
+            t10 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "min-h-screen flex items-center justify-center bg-[#05070C] px-6 relative overflow-hidden",
+                children: [
+                    t0,
+                    t1,
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "relative z-10 w-full max-w-xl text-center bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-12 shadow-[0_0_60px_rgba(0,0,0,0.6)]",
+                        children: [
+                            t2,
+                            t3,
+                            t4,
+                            t5,
+                            t8,
+                            t9
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                        lineNumber: 91,
+                        columnNumber: 127
+                    }, ("TURBOPACK compile-time value", void 0))
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/app/dashboard/inbox/page.tsx",
+                lineNumber: 91,
+                columnNumber: 13
+            }, ("TURBOPACK compile-time value", void 0));
+            $[13] = t8;
+            $[14] = t10;
+        } else {
+            t10 = $[14];
+        }
+        return t10;
     }
     let t0;
-    if ($[6] === Symbol.for("react.memo_cache_sentinel")) {
+    if ($[15] === Symbol.for("react.memo_cache_sentinel")) {
         t0 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$common$2f$DashbaordHeader$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-            lineNumber: 53,
+            lineNumber: 101,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
-        $[6] = t0;
+        $[15] = t0;
     } else {
-        t0 = $[6];
+        t0 = $[15];
     }
     let t1;
-    if ($[7] === Symbol.for("react.memo_cache_sentinel")) {
+    if ($[16] === Symbol.for("react.memo_cache_sentinel")) {
         t1 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "w-[96%] lg:w-full mx-auto lg:px-[1%] lg:pt-[1%]",
             children: [
@@ -6330,46 +6445,46 @@ const Inbox = ()=>{
                             openSidebar: false
                         }, void 0, false, {
                             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                            lineNumber: 60,
+                            lineNumber: 108,
                             columnNumber: 175
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$MessagingWorkspace$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                            lineNumber: 60,
+                            lineNumber: 108,
                             columnNumber: 215
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ChatMessages$2f$ChatMessages$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                            lineNumber: 60,
+                            lineNumber: 108,
                             columnNumber: 237
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ConversationInsightPanel$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             open: false
                         }, void 0, false, {
                             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                            lineNumber: 60,
+                            lineNumber: 108,
                             columnNumber: 253
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$common$2f$MobileModuleNavigation$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                            lineNumber: 60,
+                            lineNumber: 108,
                             columnNumber: 294
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-                    lineNumber: 60,
+                    lineNumber: 108,
                     columnNumber: 79
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/dashboard/inbox/page.tsx",
-            lineNumber: 60,
+            lineNumber: 108,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
-        $[7] = t1;
+        $[16] = t1;
     } else {
-        t1 = $[7];
+        t1 = $[16];
     }
     return t1;
 };
