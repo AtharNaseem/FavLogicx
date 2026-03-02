@@ -1,6 +1,6 @@
 "use client";
 
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { polygonIconsData, PolygonItem } from "../icons/icons";
 import clsx from "clsx";
 

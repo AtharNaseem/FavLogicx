@@ -1,7 +1,7 @@
 "use client";
 
 import { fetchDetail } from "@/api/detailuser";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { useDelayedQuery } from "@/lib/useDelayedQuery";
 import clsx from "clsx";
 import Image from "next/image";

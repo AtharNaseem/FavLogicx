@@ -1,7 +1,7 @@
 "use client";
 
 import { fetchUsers } from "@/api/users";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { useDelayedQuery } from "@/lib/useDelayedQuery";
 import Image from "next/image";
 import { useState, useMemo, useEffect } from "react";

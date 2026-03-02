@@ -2,7 +2,7 @@
 
 import { getChatMessages } from "@/api/chatDetails";
 import { Message } from "@/data/ChatData";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { TickIcon } from "@/icons/icons";
 import { useDelayedQuery } from "@/lib/useDelayedQuery";
 import Image from "next/image";

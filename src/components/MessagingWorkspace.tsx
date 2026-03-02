@@ -6,7 +6,7 @@ import Image from "next/image";
 import {  ReactNode, useState } from "react";
 import SingleChatPageMessages from "./ChatMessages/ChatMessagesInner";
 import { useChatStore } from "@/global/chatbox";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { motion, AnimatePresence } from "framer-motion";
 import DashbaordSidebar from "./DashbaordSidebar/DashbaordSidebar";
 import ConversationInsightPanel from "./ConversationInsightPanel";

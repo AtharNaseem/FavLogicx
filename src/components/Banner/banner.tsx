@@ -7,7 +7,7 @@ import { useState } from "react";
 import { Polygon } from "./Polygon";
 import loaderGif from "@/assets/Bannerloader.gif";
 import { polygonIconsData, PolygonItem } from "../icons/icons";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { useRouter } from "next/navigation";
 
 interface ModuleLoaderStateProps {
@@ -55,19 +55,29 @@ const handleModuleSelect = (module: PolygonItem) => {
       </div>
 
       <div className="flex lg:block flex-col items-center w-full">
-        <div className="hidden lg:block">
+        <div className="hidden lg:block overflow-hidden">
           {polygonIconsData?.map((item, index) => (
-            <Polygon
-              key={index}
-              onClick={() => handleModuleSelect(item)}
-              className={clsx(
-                "lg:absolute cursor-pointer z-10 transition-all duration-500 ease-in-out mt-[10%]",
-                item.position,
-                item.size
-              )}
-            >
-              {item.icon}
-            </Polygon>
+ <Polygon
+  key={index}
+  onClick={() => handleModuleSelect(item)}
+  className={clsx(
+    "group lg:absolute cursor-pointer z-10 transition-all duration-500 ease-in-out mt-[10%] relative overflow-hidden",
+    item.position,
+    item.size
+  )}
+>
+  {/* Icon */}
+  <div className="absolute inset-0 flex items-center justify-center transition-all duration-500 group-hover:-translate-y-full">
+    {item.icon}
+  </div>
+
+  {/* Label */}
+  <div className="absolute inset-0 flex items-center justify-center translate-y-full transition-all duration-500 group-hover:translate-y-0">
+    <p className="font-bold text-white text-xs">
+      {item.label}
+    </p>
+  </div>
+</Polygon>
           ))}
         </div>
 

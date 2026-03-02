@@ -6,7 +6,7 @@ import DashbaordSidebar from "@/components/DashbaordSidebar/DashbaordSidebar";
 import ChatMessages from "@/components/ChatMessages/ChatMessages";
 import MessagingWorkspace from "@/components/MessagingWorkspace";
 import ConversationInsightPanel from "@/components/ConversationInsightPanel";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { useRouter } from "next/navigation";
 import { ArrowRight, Lock } from "lucide-react";
 

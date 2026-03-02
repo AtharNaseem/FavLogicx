@@ -1,39 +1,46 @@
-[00:00:03.591] Server  LOG      ✓ Ready in 2.8s
-[00:01:56.091] Server  LOG      ○ Compiling /dashboard/inbox ...
-[00:02:01.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:12.138] Server  LOG      ✓ Compiled in 216ms
-[00:02:12.965] Server  LOG      ✓ Compiled in 135ms
-[00:02:23.158] Server  LOG      ✓ Compiled in 81ms
-[00:03:19.487] Server  LOG      ✓ Compiled in 157ms
-[00:03:22.149] Server  LOG      ✓ Compiled in 103ms
-[00:03:30.075] Server  LOG      ✓ Compiled in 79ms
-[00:03:35.815] Server  LOG      ✓ Compiled in 109ms
-[00:03:39.300] Server  LOG      ✓ Compiled in 90ms
-[00:03:56.755] Server  LOG      ✓ Compiled in 92ms
-[00:03:58.258] Server  LOG      ✓ Compiled in 221ms
-[00:03:59.743] Server  LOG      ✓ Compiled in 244ms
-[00:07:22.069] Server  LOG      ✓ Compiled in 108ms
-[00:07:23.015] Browser ERROR   ./src/app/dashboard/inbox/page.tsx:93:1
-Parsing ecmascript source code failed
-  91 |
-  92 | export default Inbox;
-> 93 | 🔥 What Makes This Better
-     | ^
-  94 | 1️⃣ Language Upgrade
-  95 |
-  96 | Instead of:
+[00:00:20.714] Server  LOG      ✓ Ready in 13.7s
+[00:00:52.938] Server  LOG      ○ Compiling / ...
+[00:01:15.861] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:34.701] Server  LOG      ○ Compiling /dashboard/inbox ...
+[00:09:36.635] Server  LOG      ✓ Compiled in 1521ms
+[00:09:55.458] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
 
-Unexpected character '🔥'
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
 
-Import traces:
-  Client Component Browser:
-    ./src/app/dashboard/inbox/page.tsx [Client Component Browser]
-    ./src/app/dashboard/inbox/page.tsx [Server Component]
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
 
-  Client Component SSR:
-    ./src/app/dashboard/inbox/page.tsx [Client Component SSR]
-    ./src/app/dashboard/inbox/page.tsx [Server Component]
-[00:07:40.681] Server  LOG      ✓ Compiled in 163ms
-[00:07:43.513] Server  LOG      ✓ Compiled in 259ms
-[00:08:11.889] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:21.142] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+      <RedirectBoundary>
+        <RedirectErrorBoundary router={{...}}>
+          <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+            <SegmentViewNode type="page" pagePath="page.tsx">
+              <SegmentTrieNode>
+              <Home>
+                <ModuleLoaderHero>
+                  <section className="relative w...">
+                    <img>
+                    <div>
+                    <div className="flex lg:bl...">
+                      <div className="hidden lg:...">
+                        <Polygon onClick={function onClick} className="lg:absolut...">
+                          <svg fill="none" viewBox="0 0 78 86" xmlns="http://www..." className={"group/po..."} ...>
+                            <foreignObject x="0" y="0" className="size-full">
+                              <div className={"flex siz..."}>
+                                <InboxIcon>
++                               <p className="font-bold text-white text-xs">
+                            ...
+                        ...
+                      ...
+            ...
+          ...
+
+[00:10:50.097] Server  LOG      ✓ Compiled in 969ms
+[00:11:34.527] Server  LOG      ✓ Compiled in 1534ms
+[00:11:35.802] Server  LOG      ✓ Compiled in 1880ms

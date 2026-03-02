@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { polygonIconsData, PolygonItem } from "../icons/icons";
-import { useWorkspaceStore } from "@/global/usePolygonStore";
+import { useWorkspaceStore } from "@/global/useWorkspaceStore";
 import { NavigationData } from "@/data/NavigationData";
 
 export default function MobileModuleNavigation() {
